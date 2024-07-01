@@ -1,0 +1,116 @@
+@media (width:423px) and (height:675px){
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+    body{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+        position: relative;
+        display: block;
+    }
+    
+    .Fondo{
+        background-color: #FFFF;
+        width: 440px;
+        height: 750px;
+        border-top-left-radius: 48px;
+        border-top-right-radius: 48px;
+        border-bottom-right-radius: 48px;
+        border-bottom-left-radius: 48px;
+    }
+    .Fondo-1{
+        background-color: #2e2f32;
+        width: 440px;
+        height: 336px;
+        border-top-left-radius: 40px;
+        border-top-right-radius: 40px;
+        border-bottom-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+        margin-top: -61vh;
+    }
+
+    .Logo-1{
+        color: #FFFF;
+        font-size: 34px;
+        margin-top: -55vh;
+        margin-left: 5vh;
+    }
+
+    .Texto{
+        color: #FFFF;
+        font-size: 14px;
+        margin-left: 5vh;
+        margin-top: -5vh;
+    }
+
+    .Lorem{
+        color:#FFFF;
+        font-size: 14px;
+        margin-left: 5vh;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .Costo{
+        margin-left: 5vh;
+        color: #FFFF;
+        font-size: 24px;
+    }
+
+    .btn{
+        font-size: 14px;
+        background-color: rgb(57, 57, 187);
+        color: #FFFF;
+        padding: 10px 10px;
+        margin-left: 45vh;
+        border: none;
+        border-radius: 50px;
+        margin-top: -5vh;
+    }
+
+    .btn a{
+        text-decoration: none;
+        color:#FFFF;
+        margin-left: 1vh;
+    }
+
+    .flecha-1{
+        width: 5%;
+        margin-left: 58vh;
+        margin-top: -5vh;
+    }
+
+    .Airpods{
+        width: 10%;
+    }
+
+
+    .corazon-1{
+        width: 6%;
+        margin-left: 55vh;
+        margin-top: 2vh;
+    }
+
+    .mac-os{
+        width: 7%;
+        margin-top: 3vh;
+        margin-left: 10vh;
+        position: relative;
+    }
+
+    .ventanas{
+        margin-top: -5vh;
+        margin-left: 50vh;
+        position:relative;
+    }
+
+    .Airpods{
+        margin-left: 5vh;
+        position: fixed;
+        margin-top: -5vh;
+    }
+}
